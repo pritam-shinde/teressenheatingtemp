@@ -54,8 +54,8 @@ h1 {
 }
 
 h2 {
-    font-size: var(--h2-desktop-size) !important
-        text-transform: capitalize;
+    font-size: var(--h2-desktop-size) !important;
+        text-transform: capitalize !important;
 }
 
 h3 {
