@@ -192,6 +192,7 @@
     width: 100%;
     background-image:linear-gradient(rgba(255,255,255, 0.4), rgba(255,255,255, 0.4)), url(../public/home/whychoose.webp);
     background-repeat: no-repeat;
+    background-position: -19% 0%;
 }
 
 .Appointment {
@@ -217,6 +218,7 @@
 @media only screen and (max-width: 992px) {
     .whyChoose {
         background-image: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)), url(../public/home/whychoose.webp);
+        background-position: center;
     }
 
     .Appointment {
