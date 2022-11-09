@@ -27,7 +27,7 @@ const index = () => {
       <Head>
         <title>Heating & Air Conditioning Service Expert in Canada | Teressen Heating</title>
         <meta name="description" content="Teressen Heating in Canada offers high-quality heating, air conditioning & boiler services throughout the country. We offer a wide range of services to meet your needs." />
-        <meta name="robots" content="index" />
+        <meta name="robots" content="noindex" />
         <link rel="canonical" href="/" />
       </Head>
       <main>
