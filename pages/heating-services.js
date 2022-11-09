@@ -63,7 +63,7 @@ const HeatingService = () => {
                               </Grid>
                               <Grid item xs={12} md={6}>
                                 <Box>
-                                  <SectionalHeading simpletext="Providing the best heating maintenance services" variant="h2" />
+                                  <SectionalHeading simpletext="Providing The Best Heating Maintenance Services" variant="h2" />
                                   <Typography className='para'>Teressen heating services has been providing expert heating services in Canada for years. Our clients call us every day to meet their needs for emergency heating maintenance services, heating repairs, and cooling and heating system installation services. We have a group of trained technicians who take care of all your heating and maintenance issues and help you with the best of everything. Our factory-trained experts provide reliable heating maintenance and installation services for all brands such as boilers, furnaces, heat pumps, and yet more.</Typography>
 
                                 </Box>
